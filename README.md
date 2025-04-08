@@ -1,5 +1,7 @@
 ## Sparta Node Sample App
 
+[![Node.js CI](https://github.com/JamesC830/nodejs-sparta-test-app_copy/actions/workflows/node.js.yml/badge.svg)](https://github.com/JamesC830/nodejs-sparta-test-app_copy/actions/workflows/node.js.yml)
+
 ## Description
 
 This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch. 
